@@ -3,4 +3,6 @@ During the 2017-2018 school year when I was a senior at Minnetonka High School, 
 
 It displays feeback which helps the student familiarize themselves with the relations between different physical quantities by rendering vectors on the screen and generating a graph of each physical quanitty over time.
 
+The application uses the iOS Charts API.
+
 Unfortunately, the development process took longer than I anticipated. Additionally, my progress was delayed by multiple computer malfunctions. I didn't get to develop all of the features for the application that I wanted to, and never got to test it.

@@ -1,0 +1,2 @@
+# Physics-Project
+During the 2017-2018 school year when I was a senior at Minnetonka High School, I took a new class called "Minnetonka Science Research". The purpose of the class was to have students conduct scientific research projects. My project was to attempt to develop and then test an interactive iOS application for the iPad which was designed to teach Newtonian Mechanics at the High School Level. Unfortunately, I didn't develop all of the features for the application that I wanted to, and never got to test it.

@@ -5,4 +5,4 @@ It displays feeback which helps the student familiarize themselves with the rela
 
 The application uses the iOS Charts API.
 
-Unfortunately, the development process took longer than I anticipated. Additionally, my progress was delayed by multiple computer malfunctions. I didn't get to develop all of the features for the application that I wanted to, and never got to test it.
+Unfortunately, the development process took longer than I anticipated. Additionally, my progress was delayed by multiple instances of hardware failure on the laptop I had access to at the time. I didn't get to develop all of the features for the application that I wanted to, and never got to test it.
